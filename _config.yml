@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ramaguru Radhakrishnan"
+title                    : "Hemalatha P"
 title_separator          : "-"
-name                     : &name "Ramaguru Radhakrishnan"
-description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham | Founder and Lead Researcher at நம்Chain® Open Initiative Research Lab"
-url                      : https://ramagururadhakrishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hemalatha P"
+description              : &description "Assistant Professor at Amrita Vishwa Vidyapeetham"
+url                      : https://hemasanjay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  
